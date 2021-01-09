@@ -1,0 +1,16 @@
+.s {
+  position: relative;
+}
+.btn {
+  margin: 20px;
+  text-align: center;
+  display: flex;
+  justify-content: space-between;
+}
+.btn h2 {
+  color: white;
+}
+.btn i {
+  cursor: pointer;
+  color: white;
+}
